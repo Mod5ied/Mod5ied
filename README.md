@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Nest.js, Node.js and Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://pato.vercel.app/](https://pato.vercel.app/)
+- 👨‍💻 Some of my projects are available at [https://pato.vercel.app/](https://pato.vercel.app/)
 
-- 📝 I regularly write articles on [Dev.to](Dev.to)
+- 📝 I write beginner friendly and advanced technical articles on [Dev.to](Dev.to)
 
 - 💬 Ask me about **Vue.js, JavaScript OOP, Node.js**
 
