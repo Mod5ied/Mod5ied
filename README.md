@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ogwuru Patrick</h1>
 <h3 align="center">A Frontend Enginner from Africa</h3>
 
-- 🌱 I’m currently learning **Nest.js, Node.js and Blockchain**
+- 🌱 I’m currently learning **Nest.js, Microservices with GoLang and the Blockchain**
 
 - 👨‍💻 Some of my projects are available at [https://pato.vercel.app/](https://pato.vercel.app/)
 
