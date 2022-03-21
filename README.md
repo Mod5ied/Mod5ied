@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ogwuru Patrick</h1>
-<h3 align="center">A Frontend Enginner from Africa</h3>
+<h3 align="center">A Frontend Enginner from Nigeria</h3>
 
 - 🌱 I’m a frontend enginner working with **Vue.js, TypeScript, JavaScript and currently learning Blockchain**
 
