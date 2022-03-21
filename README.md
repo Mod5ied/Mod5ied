@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ogwuru Patrick</h1>
 <h3 align="center">A Frontend Enginner from Africa</h3>
 
-- 🌱 I’m currently learning **Nest.js, Microservices with GoLang and the Blockchain**
+- 🌱 I’m a frontend enginner working with **Vue.js, TypeScript, JavaScript and currently learning Blockchain**
 
 - 👨‍💻 Some of my projects are available at [https://pato.vercel.app/](https://pato.vercel.app/)
 
 - 📝 I write beginner friendly and advanced technical articles on [Dev.to](Dev.to)
 
-- 💬 Ask me about **Vue.js, JavaScript OOP, Node.js**
+- 💬 Have a query about **Vue.js, JavaScript OOP, Node.js**? Shoot!
 
-- 📫 How to reach me **ogwurup@gmail.com**
+- 📫 Send me a mail - **ogwurup@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
