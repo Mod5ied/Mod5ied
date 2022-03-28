@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ogwuru Patrick</h1>
 <h3 align="center">A Frontend Enginner from Nigeria</h3>
 
-- 🌱 I’m a frontend enginner working with **Vue.js, TypeScript, JavaScript and currently learning Blockchain**
+- 🌱 I’m a frontend enginner working with **Vue.js, TypeScript, JavaScript and currently learning about Blockchain**
 
 - 👨‍💻 Some of my projects are available at [https://pato.vercel.app/](https://pato.vercel.app/)
 
