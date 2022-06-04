@@ -3,8 +3,6 @@
 
 - 🌱 I’m a frontend enginner working with **Vue.js, TypeScript, JavaScript and currently working on the backend and learning Blockchain development**
 
-- 👨‍💻 Some of my projects are available at [https://pato.vercel.app/](https://pato.vercel.app/)
-
 - 📝 I write beginner friendly and advanced technical articles on [Dev.to](Dev.to)
 
 - 💬 Have a query about **Vue.js, JavaScript OOP, Node.js**? Shoot!
