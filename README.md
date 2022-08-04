@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ogwuru Patrick</h1>
-<h3 align="center">A Frontend Enginner</h3>
+<h3 align="center">A Software Enginner</h3>
 
-- 🌱 I’m a frontend enginner working with **Vue.js, TypeScript, JavaScript and currently working on the backend and learning Blockchain development**
+- 🌱 I’m a Software enginner working on the frontend with **Vue.js, TypeScript, JavaScript and currently working on the backend and learning Blockchain development**
 
 - 📝 I write beginner friendly and advanced technical articles on [Dev.to](Dev.to)
 
 - 💬 Have a query about **Vue.js, JavaScript OOP, Node.js**? Shoot!
 
-- 📫 Send me a mail - **ogwurup@gmail.com**
+- 📫 Do well to reach out via my email - **ogwurup@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
