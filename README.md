@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ogwuru Patrick</h1>
-<h3 align="center">A Software Enginner</h3>
+<h1 align="center">Welcome to my page</h1>
 
-- 🌱 I’m a Frontend-focused software enginner working on the frontend with **Vue.js, TypeScript, JavaScript and currently working on the backend and learning Blockchain development**
+- 🌱 I’m a Fullstack software enginner working fulltime with web technologies like:  **TypeScript, JavaScript, Node and React**
 
-- 📝 I write beginner friendly and advanced technical articles on [Dev.to](Dev.to)
+- 📝 I try to write beginner friendly and advanced technical articles on [Dev.to](Dev.to)
 
-- 💬 Have a query about **Vue.js, JavaScript, Node.js or APIs in general**? Shoot!
+- 💬 Have a query about **JavaScript, Node.js or APIs in general**? Shoot!
 
 - 📫 Do well to reach out via my email - **ogwurup@gmail.com**
 
